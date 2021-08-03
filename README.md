@@ -1,24 +1,5 @@
-# fgutteridge
+# finngutteridge.ca
 
-## Project setup
-```
-npm install
-```
+Finn Gutteridge's professional web development portfolio and website.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[View it here.](https://finngutteridge.ca/)

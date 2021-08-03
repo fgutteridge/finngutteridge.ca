@@ -1,0 +1,28 @@
+@import 'variables';
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+.subtitle {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+.circle-btn {
+    background-color: $primary;
+    transition: 200ms all ease;
+    justify-content: center;
+    text-decoration: none;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 1.2rem;
+    padding-left: 2px;
+    color: white;
+    height: 2.5rem;
+    width: 2.5rem;
+    display: flex;
+
+    &:hover {
+        color: rgba(white, 0.75);
+    }
+}
